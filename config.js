@@ -63,7 +63,7 @@
 		// "sticky" = STICKY NAVIGATION
 		// "popup" = POPUP NAVIGATION
 		
-		var option_navigation_mode = "sticky";
+		var option_navigation_mode = "fixed";
 		
 		
 		
@@ -72,7 +72,7 @@
 		// "on" = OPTION ACTIVATED
 		// "off" = OPTION DEACTIVATED
 		
-		var option_animate_content_on_scroll = "on";
+		var option_animate_content_on_scroll = "off";
 		
 		
 		
@@ -105,7 +105,7 @@
 		// "on" = OPTION ACTIVATED
 		// "off" = OPTION DEACTIVATED
 		
-		var option_hero_animate_content_on_scroll = "on";
+		var option_hero_animate_content_on_scroll = "off";
 		
 		
 		
@@ -114,7 +114,7 @@
 		// "on" = OPTION ACTIVATED
 		// "off" = OPTION DEACTIVATED
 		
-		var option_hero_3d_hover_effect = "on";
+		var option_hero_3d_hover_effect = "off";
 		
 		
 		
@@ -122,7 +122,7 @@
 		
 		// "on" = OPTION ACTIVATED
 		// "off" = OPTION DEACTIVATED
-		var option_hero_parallax_hover_effect = "on";
+		var option_hero_parallax_hover_effect = "off";
 		
 		
 		
@@ -131,7 +131,7 @@
 		// "on" = OPTION ACTIVATED
 		// "off" = OPTION DEACTIVATED
 		
-		var option_hero_gravity_effect = "on";
+		var option_hero_gravity_effect = "off";
 		
 		
 		
@@ -285,7 +285,7 @@
 				
 				
 				// YOUTUBE URL
-				var option_hero_background_youtube_url = "https://www.youtube.com/watch?v=kB5xkGZmf_Q";
+				var option_hero_background_youtube_url = "";
 				
 				
 				
@@ -516,7 +516,7 @@
 				function customBackground() {
 					
 					// EXAMPLE CODE
-					$("#canvas").css("background","#00AB39");
+					$("#canvas").css("background","#d1c395");
 					
 					
 				}
